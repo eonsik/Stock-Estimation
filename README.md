@@ -1,7 +1,7 @@
 # CS595A Final Project
 The classification and prediction of a stock with implementation of the artificial intelligence and machine learning. 
 
-# Requirements
+### Requirements
 - pandas
 - numpy
 - matplot
@@ -11,7 +11,7 @@ The classification and prediction of a stock with implementation of the artifici
 - Yahoo Finances
 
 
-# Resources
+### Resources
 B. Marjanovic, “Huge Stock Market Dataset,” Kaggle, 16 11 2017. [Online]. Available: https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs. [Access: 24 2 2020].<br><br>
 D. Gawlik, “New York Stock Exchange,” Kaggle, 22 2 2017. [Online]. Available: https://www.kaggle.com/dgawlik/nyse. [Access: 24 2 2020].<br><br>
 C. Krauss, "FAU researchers demonstrate potential for profitable investment strategies based on machine learning," Friedrich-Alexander-Universität Erlangen-Nürnberg Newspaper, 1 3 2017. <br><br>
