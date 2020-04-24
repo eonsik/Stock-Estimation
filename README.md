@@ -18,3 +18,4 @@ C. Krauss, "FAU researchers demonstrate potential for profitable investment stra
 S. S. P. T. K. K. Jigar Patel, “Predicting stock market index using fusion of machine learning techniques,” 2015. <br><br>
 V. S. A. P. E. S. N. V. Sotirios P. Chatzis, “Forecasting stock market crisis events using deep and statistical machine learning techniques,” %1 Expert Systems with Applications, 2018. <br><br>
 C. Olah, “Understanding LSTM Networks,” 27 8 2015. [Online]. Available: https://colah.github.io/posts/2015-08-Understanding-LSTMs/. [Access: 22 4 2020].<br><br>
+R. Stansbury, “cs455-ml-demos,” GitHub Repository, [Online]. Available: https://github.com/richss/cs455-ml-demos.
