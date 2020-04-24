@@ -1,6 +1,5 @@
 # CS595A Final Project
-Final project for CS 595A
-
+The classification and prediction of a stock with implementation of the artificial intelligence and machine learning. 
 
 ## Requirements
 - pandas
