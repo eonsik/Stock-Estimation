@@ -1,6 +1,6 @@
 # CS595A Final Project
 Final project for CS 595A
----
+
 
 ## Resources
 B. Marjanovic, “Huge Stock Market Dataset,” Kaggle, 16 11 2017. [Online]. Available: https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs. [Access: 24 2 2020].<br><br>
