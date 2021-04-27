@@ -1,4 +1,4 @@
-# CS595A Final Project
+# Stock Estimation
 The classification and prediction of a stock with implementation of the artificial intelligence and machine learning.
 
 Credit to Dr. Stansbury for ideas of metrics, analysis, code snippets, and sample algorithms that were modified.
